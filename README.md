@@ -1,5 +1,5 @@
 # luace
 Cheat engine steps done in lua
 
-Some credit to:
+Worked on this with:
 https://github.com/LordDuck02
